@@ -1,2 +1,2 @@
-\n0 string SCHOOL School data\n!:mine School
-file -C -m school.mgc
+0 string SCHOOL
+file -C -m school -o school.mgc
